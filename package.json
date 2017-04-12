@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/aliceandrade/maquina-de-cafe/issues"
   },
-  "homepage": "https://github.com/aliceandrade/maquina-de-cafe#readme"
+  "homepage": "https://github.com/aliceandrade/maquina-de-cafe#readme",
+  "devDependencies": {
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "dependencies": {
+    "react": "^15.5.4"
+  }
 }
