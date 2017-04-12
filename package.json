@@ -1,0 +1,19 @@
+{
+  "name": "maquina-de-cafe",
+  "version": "1.0.0",
+  "description": "maquina de café com react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliceandrade/maquina-de-cafe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliceandrade/maquina-de-cafe/issues"
+  },
+  "homepage": "https://github.com/aliceandrade/maquina-de-cafe#readme"
+}
